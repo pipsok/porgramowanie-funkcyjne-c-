@@ -1,0 +1,14 @@
+C:\Users\KasPaw\Desktop\source\repos\kalk\kalk\bin\Debug\net8.0\kalk.exe
+C:\Users\KasPaw\Desktop\source\repos\kalk\kalk\bin\Debug\net8.0\kalk.deps.json
+C:\Users\KasPaw\Desktop\source\repos\kalk\kalk\bin\Debug\net8.0\kalk.runtimeconfig.json
+C:\Users\KasPaw\Desktop\source\repos\kalk\kalk\bin\Debug\net8.0\kalk.dll
+C:\Users\KasPaw\Desktop\source\repos\kalk\kalk\bin\Debug\net8.0\kalk.pdb
+C:\Users\KasPaw\Desktop\source\repos\kalk\kalk\obj\Debug\net8.0\kalk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KasPaw\Desktop\source\repos\kalk\kalk\obj\Debug\net8.0\kalk.AssemblyInfoInputs.cache
+C:\Users\KasPaw\Desktop\source\repos\kalk\kalk\obj\Debug\net8.0\kalk.AssemblyInfo.cs
+C:\Users\KasPaw\Desktop\source\repos\kalk\kalk\obj\Debug\net8.0\kalk.csproj.CoreCompileInputs.cache
+C:\Users\KasPaw\Desktop\source\repos\kalk\kalk\obj\Debug\net8.0\kalk.dll
+C:\Users\KasPaw\Desktop\source\repos\kalk\kalk\obj\Debug\net8.0\refint\kalk.dll
+C:\Users\KasPaw\Desktop\source\repos\kalk\kalk\obj\Debug\net8.0\kalk.pdb
+C:\Users\KasPaw\Desktop\source\repos\kalk\kalk\obj\Debug\net8.0\kalk.genruntimeconfig.cache
+C:\Users\KasPaw\Desktop\source\repos\kalk\kalk\obj\Debug\net8.0\ref\kalk.dll
